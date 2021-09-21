@@ -14,7 +14,11 @@ This project provides Business Leaders an opportunity to apply their knowledge g
  ![](Images/5Vs.PNG)
 
   * *Business Architecture:* The Business architecture for the uses along with any common patterns are plotted and anlayzed to further narrow down on the use cases. Some hard choice around the data and the architecture are now made with the above available information to narrow down further to 2 uses cases.
-  
+**Production Scheduler Architecture**
+ ![](Images/Prod_Schedule_Arch.PNG)
+
+
+
   * *Operational Considerations:* Accuracy, Bias and Ethics are applied for the final 2 use cases to consider the opeational considerations when the 2 use cases are implemented and productionalized. 
   * *A Feedback and Outreach survey* is conducted with all important stakeholders of the business problem to solicit their understanding of the problem, the expectations of the solution improving the day-to-day operations, the value proposition that the solution would bring, and the concerns around the problem space and solution proposed. 
   * *The Operational considerations and feedback/surveys* are considered together for the implementation of the final use cases. Risk and Mitigations are outlined and an implementation approach for the final 2 use cases are outlined.    
