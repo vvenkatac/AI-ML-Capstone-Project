@@ -7,6 +7,7 @@ This project provides Business Leaders an opportunity to apply their knowledge g
 
 * **The Project covers:**
   * *A Paradigm Shift:* The team narrows down from 10 to 5 use cases in this step that are most viable in terms of the faesibility and the impact that they will produce. 
+  ![](Images/First_Prioritization.png)
   * *Mathematical Constraints as a Filter:* The 5V's corresponding to Volume, Variety, Velocity, Veracity and Value of the data available for each of the use case are analyzed and applied to narrow down to 3 use cases.
   * *Business Architecture:* The Business architecture for the uses along with any common patterns are plotted and anlayzed to further narrow down on the use cases. Some hard choice around the data and the architecture are now made with the above available information to narrow down further to 2 uses cases.
   * *Operational Considerations:* Accuracy, Bias and Ethics are applied for the final 2 use cases to consider the opeational considerations when the 2 use cases are implemented and productionalized. 
