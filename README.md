@@ -31,6 +31,6 @@ This project provides Business Leaders an opportunity to apply their knowledge g
   
   ![](Images/FS_Buyer_Propensity.PNG)
 
-  
-  
-  * *The Operational considerations and feedback/surveys* are considered together for the implementation of the final use cases. Risk and Mitigations are outlined and an implementation approach for the final 2 use cases are outlined.    
+  * *The Operational considerations and feedback/surveys* are considered together for the implementation of the final use cases. Risk and Mitigations are outlined and an implementation approach for the final 2 use cases are outlined. <br>
+  ![](Images/Final_Prioritization.PNG)
+    
